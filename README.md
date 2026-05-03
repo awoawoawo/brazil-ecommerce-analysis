@@ -48,6 +48,11 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
 ## Insight Deep-Dive
 
 ## Sales Trend
+<p align="center">
+  <img src="images/sales_revenue.png" width="32%"/>
+  <img src="images/sales_orders.png" width="32%"/>
+  <img src="images/sales_aov.png" width="32%"/>
+</p>
 
 ### Sales Revenue
 
@@ -125,6 +130,11 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
      - No further volume growth  
      
 ## Product Category Performance
+<p align="center">
+  <img src="images/product_revenue.png" width="32%"/>
+  <img src="images/product_orders.png" width="32%"/>
+  <img src="images/product_aov.png" width="32%"/>
+</p>
 
 ### The Best and Worst  
 
@@ -209,6 +219,9 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
      - Impulse buying behavior  
 
 ## Regional Performance Analysis
+<p align="center">
+  <img src="images/states_revenue.png" width="60%"/>
+</p>
 
 ### The Best and Worst  
 
