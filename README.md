@@ -13,6 +13,8 @@ The key insights and recommendations focus on the following areas:
 
 - **Regional Performance Analysis** - focuses on revenue distribution across customer states. This provides insight into geographic concentration, identifies core markets, and reveals potential areas for expansion based on regional demand patterns.
 
+> **Tools Used:** Python (pandas, numpy, matplotlib, seaborn)
+
 ## Data Dictionary
 
 The dataset contains **111,015 rows**, structured at the **item level**, meaning each row represents a single product within an order. As a result, one `order_id` may appear multiple times depending on the number of items purchased in that order.
