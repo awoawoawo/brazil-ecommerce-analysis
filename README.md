@@ -13,7 +13,7 @@ The key insights and recommendations focus on the following areas:
 
 - **Regional Performance Analysis** - focuses on revenue distribution across customer states. This provides insight into geographic concentration, identifies core markets, and reveals potential areas for expansion based on regional demand patterns.
 
-> **Tools Used:** Python (pandas, numpy, matplotlib, seaborn)
+> All data processing and analysis were performed using Python (pandas, numpy). Visualization was created using matplotlib and seaborn.
 
 ## Data Dictionary
 
