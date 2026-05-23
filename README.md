@@ -51,6 +51,8 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
 
 ## Sales Trend
 
+![Sales Trend](images/monthly_revenue.png)
+
 - Total sales during 2017–2018 reached approximately **R$ 13.3 million**, with monthly sales ranging from around **R$ 118k to R$ 991k**.
 - Sales experienced a significant spike in **November 2017**, reaching the highest level during the observed period.
 - Following the November 2017 peak, sales declined sharply in **December 2017**, recovered in **January 2018**, and decreased again in **February 2018**.
@@ -58,6 +60,8 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
 - Most product categories followed a similar overall sales pattern, including a noticeable spike in **November 2017**.
 
 ## Product Category Performance
+
+![Product Category Performance](images/monthly_revenue_product_cat.png)
 
 - The best-performing product category was Health Beauty, generating approximately **R$ 1.2 million** in total sales.
 - The worst-performing category was Security and Services, contributing only around **R$ 283** in total sales, which may indicate incomplete or missing data.
@@ -72,6 +76,8 @@ The dataset contains **111,015 rows**, structured at the **item level**, meaning
 - In **August 2018**, Watches Gift continued to decline, while Bed Bath Table and Health Beauty experienced sales spikes during the same period.
 
 ## Regional Performance
+
+![Regional Performance](images/monthly_revenue_states.png)
 
 - Sales trends across all states followed generally similar patterns over time.
 - São Paulo (SP) was the dominant contributor to total sales and acted as the primary driver of overall regional sales performance.
